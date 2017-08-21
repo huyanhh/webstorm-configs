@@ -1,0 +1,9 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Rerun@RunnerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="10" />
+      <entry action="Stop@NavBarToolbar" count="1" />
+    </counts>
+  </component>
+</application>

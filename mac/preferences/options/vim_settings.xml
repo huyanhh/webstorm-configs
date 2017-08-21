@@ -1,0 +1,276 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/fragment.js" timestamp="1496619737832">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/common/models/application-credential.json" timestamp="1496793540260">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkreporting/data/eslMessages.js" timestamp="1497251499593">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/scraper/main.js" timestamp="1496620719328">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/package.json" timestamp="1496691695034">
+        <mark key="[" line="44" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/server/datasources.json" timestamp="1496716401366">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/views/success.ejs" timestamp="1497032909268">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkreporting/data/messages.js" timestamp="1497251461454">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkdemo/scripts/main.js" timestamp="1496710183456">
+        <mark key="[" line="227" column="26" />
+        <mark key="]" line="232" column="2" />
+        <mark key="." line="232" column="2" />
+        <mark key="^" line="232" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkreporting/data/dictionary.js" timestamp="1497249816168">
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="15" />
+        <mark key="^" line="97" column="15" />
+        <mark key="." line="97" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/common/models/hec-user.json" timestamp="1496794340074">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkreporting/js/Navbar.js" timestamp="1497247577233">
+        <mark key="[" line="17" column="31" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1497141809136">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/common/models/access-token.json" timestamp="1496792845043">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/views/login.jade" timestamp="1496862248381">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/server/server.js" timestamp="1497141850874">
+        <mark key="[" line="72" column="27" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/views/loggedin.jade" timestamp="1496862536093">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkdemo/firebase.json" timestamp="1497252220377">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkreporting/data/esl.js" timestamp="1497247097068">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/common/helpers/tripAdvisor.js" timestamp="1496617305042">
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="37" column="2" />
+        <mark key="." line="37" column="2" />
+        <mark key="^" line="37" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/calorui/src/foodinput.js" timestamp="1491350924525">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1497251325065">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/src/containers/home/index.js" timestamp="1497139847958">
+        <mark key="'" line="265" column="43" />
+        <mark key="[" line="265" column="25" />
+        <mark key="]" line="267" column="43" />
+        <mark key="." line="267" column="43" />
+      </file>
+      <file name="vm:454" timestamp="1496383130315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/scraper/helper.js" timestamp="1496615952551">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/common/models/user-identity.json" timestamp="1496792828314">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/calorui/src/PageDetail.js" timestamp="1491350647871">
+        <mark key="[" line="65" column="17" />
+        <mark key="]" line="65" column="17" />
+        <mark key="." line="65" column="17" />
+        <mark key="^" line="42" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/providers.json" timestamp="1497297790042">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/common/models/user-credential.json" timestamp="1496792832025">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/views/loggedin.ejs" timestamp="1497032900945">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/calorui/src/reducers/entries.js" timestamp="1491337693921">
+        <mark key="[" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/server/model-config.json" timestamp="1496850620236">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/mkreporting/js/MKChat.js" timestamp="1497251578679">
+        <mark key="[" line="209" column="22" />
+        <mark key="]" line="139" column="57" />
+        <mark key="." line="139" column="57" />
+        <mark key="^" line="139" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/calorui/app.js" timestamp="1489447682157">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="45" />
+        <mark key="." line="52" column="45" />
+        <mark key="^" line="52" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/dont_go_in_here/calorui/src/LogViewPager.js" timestamp="1491341880475">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/server/boot/app.js" timestamp="1497142508684">
+        <mark key="[" line="95" column="5" />
+        <mark key="]" line="104" column="26" />
+        <mark key="." line="104" column="26" />
+        <mark key="^" line="104" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/hecatea-api/common/models/activity.json" timestamp="1496393654427">
+        <mark key="[" line="11" column="18" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="14" column="18" filename="$USER_HOME$/Documents/work/hecatea-api/scraper/activity.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/work/hecatea-api/scraper/activity.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/work/hecatea-api/scraper/activity.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/work/hecatea-api/scraper/activity.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/Documents/work/hecatea-api/common/models/activity.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/Documents/work/hecatea-api/common/models/access-token.json" />
+      <jump line="265" column="43" filename="$USER_HOME$/Documents/work/hecatea-api/src/containers/home/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECgo9PT09PT09Cj4+Pj4+Pj4gZGJlODJhYTkzMTY1NjFhMzdhZWNmODgyYjdkZDA3ZmQ3MTYxNjgwNw==</text>
+      </register>
+      <register name="-" type="4">
+        <text>We are Million Kids and we are here to help :) If anyone has as</text>
+      </register>
+      <register name="0" type="4">
+        <text>392332017791242&quot;</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECgo9PT09PT09Cj4+Pj4+Pj4gZGJlODJhYTkzMTY1NjFhMzdhZWNmODgyYjdkZDA3ZmQ3MTYxNjgwNw==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>/**
+ * Created by huyanh on 2017. 6. 12..
+ */</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRleHQ6ICdIZWxsbyEga2VkIHlvdSB0byBzZW5kIHNvbWV0aGluZyBpbmFwcm9wcmlhdGUgb25saW5lLCB5b3UgY2FuIHJlcG9ydCB0aGVtIGJ5IHR5cGluZyAiUmVwb3J0LiInLAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50RGljdAo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdE5hbWU9e3RoaXMuY3VycmVudERpY3QuX25hbWV9Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgb25Cb3RTd2l0Y2goKSB7CgogIH0=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAnSG93IGRvIHlvdSB0aGluayB0aGlzIHBlcnNvbiBjb250YWN0ZWQgeW91PycsCg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
