@@ -1,0 +1,5 @@
+BashSupport
+Git4Idea
+com.vladsch.idea.multimarkdown
+mobi.hsz.idea.gitignore
+org.jetbrains.plugins.github

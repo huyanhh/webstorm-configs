@@ -1,0 +1,11 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+</keymap>

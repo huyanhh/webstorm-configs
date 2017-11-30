@@ -1,0 +1,411 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="javaScript Scope Usages">
+      <project id="hecatea-graphql-express" values="Project,Project,Directory" collectionTime="1506562664437" />
+      <project id="untitled" values="Project,Project,Directory" collectionTime="1495355782317" />
+      <project id="iXercise-WebAPP" values="Directory,Project,Project" collectionTime="1466814097309" />
+      <project id="huyanh-hoang" values="Project,Project" collectionTime="1478264360582" />
+      <project id="calorui" values="Project,Directory" collectionTime="1494884933661" />
+      <project id="mkreporting" values="Directory,Project" collectionTime="1497252024896" />
+      <project id="zulip-mobile" values="Directory,Project" collectionTime="1493842379740" />
+      <project id="project-mesos-frontend" values="Project" collectionTime="1491802860593" />
+      <project id="hecatea-api" values="Directory,Project,Project" collectionTime="1511829328090" />
+      <project id="asdfasdf" values="Project" collectionTime="1491159907374" />
+      <project id="MKReporting" values="Project,Directory" collectionTime="1492733517579" />
+      <project id="ch4" values="Project,Project" collectionTime="1463787157008" />
+      <project id="ch3" values="Project,Project" collectionTime="1463796311962" />
+      <project id="censorify" values="Project,Project" collectionTime="1460663202304" />
+      <project id="mk-reporting" values="Project" collectionTime="1492733565490" />
+      <project id="omni" values="Project,Project,Project" collectionTime="1485076150007" />
+      <project id="todo" values="Project,Directory,Project,Project" collectionTime="1488844821844" />
+      <project id="MiniVanConfigurator" values="Project,Project" collectionTime="1485919377095" />
+      <project id="chat-bot-example-app-master" values="Project,Directory" collectionTime="1492734356723" />
+      <project id="f8app-master" values="Directory,Project" collectionTime="1504648914297" />
+      <project id="blog" values="Project,Project" collectionTime="1487796799519" />
+      <project id="nodebook" values="Project,Project" collectionTime="1460662889248" />
+      <project id="flatlisttest" values="Project,Directory" collectionTime="1494650499701" />
+      <project id="INF132" values="Project,Project" collectionTime="1464673858586" />
+      <project id="huyanhh.github.io" values="Project,Project" collectionTime="1489125381912" />
+      <project id="mkreporting2" values="Directory,Project" collectionTime="1492732155023" />
+      <project id="sample-Groceries" values="Project,Directory,Project" collectionTime="1474244613354" />
+      <project id="giphy-overwatch-slash-command" values="Project,Project,Directory,Project" collectionTime="1486175271978" />
+      <project id="A3-DivyaMenghani" values="Project,Project" collectionTime="1465281112691" />
+      <project id="readwords" values="Project,Project" collectionTime="1461298160409" />
+      <project id="hwr" values="Project,Directory,Project,Project" collectionTime="1480455429948" />
+      <project id="getting-MEAN" values="Project,Project,Directory" collectionTime="1489529046717" />
+      <project id="Codecademy-Exercise-Answers" values="Project,Project" collectionTime="1473836191658" />
+      <project id="hecatea-lamda" values="Directory,Directory,Project,Directory" collectionTime="1510703060633" />
+      <project id="friendlychat" values="Project" collectionTime="1495355902670" />
+      <project id="UIExplorer" values="Project" collectionTime="1494649751771" />
+      <project id="giphy-example-slash-command" values="Project,Project,Directory" collectionTime="1486014247054" />
+      <project id="mobileproject" values="Project,Project,Directory,Project" collectionTime="1485060101278" />
+      <project id="web-start" values="Project,Directory" collectionTime="1495360911536" />
+      <project id="mkdemo" values="Project,Directory" collectionTime="1497331532189" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="hecatea-graphql-express" values="ECMAScript 6" collectionTime="1506562664437" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1495355782317" />
+      <project id="iXercise-WebAPP" values="ECMAScript 5.1" collectionTime="1466814097309" />
+      <project id="huyanh-hoang" values="ECMAScript 5.1" collectionTime="1478264360584" />
+      <project id="calorui" values="Flow" collectionTime="1494884933661" />
+      <project id="mkreporting" values="Flow" collectionTime="1497252024896" />
+      <project id="zulip-mobile" values="Flow" collectionTime="1493842379740" />
+      <project id="project-mesos-frontend" values="ECMAScript 5.1" collectionTime="1491802860593" />
+      <project id="hecatea-api" values="ECMAScript 6" collectionTime="1511829328091" />
+      <project id="asdfasdf" values="ECMAScript 5.1" collectionTime="1491159907375" />
+      <project id="MKReporting" values="Flow" collectionTime="1492733517579" />
+      <project id="ch4" values="ECMAScript 5.1" collectionTime="1463787157008" />
+      <project id="ch3" values="ECMAScript 5.1" collectionTime="1463796311962" />
+      <project id="censorify" values="ECMAScript 5.1" collectionTime="1460663202304" />
+      <project id="mk-reporting" values="Flow" collectionTime="1492733565490" />
+      <project id="omni" values="React JSX" collectionTime="1485076150007" />
+      <project id="todo" values="React JSX" collectionTime="1488844821844" />
+      <project id="MiniVanConfigurator" values="ECMAScript 5.1" collectionTime="1485919377095" />
+      <project id="chat-bot-example-app-master" values="Flow" collectionTime="1492734356723" />
+      <project id="f8app-master" values="Flow" collectionTime="1504648914297" />
+      <project id="blog" values="ECMAScript 5.1" collectionTime="1487796799519" />
+      <project id="nodebook" values="ECMAScript 5.1" collectionTime="1460662889248" />
+      <project id="flatlisttest" values="Flow" collectionTime="1494650499701" />
+      <project id="INF132" values="ECMAScript 5.1" collectionTime="1464673858586" />
+      <project id="huyanhh.github.io" values="ECMAScript 5.1" collectionTime="1489125381912" />
+      <project id="mkreporting2" values="React JSX" collectionTime="1492732155023" />
+      <project id="sample-Groceries" values="ECMAScript 5.1" collectionTime="1474244613354" />
+      <project id="giphy-overwatch-slash-command" values="JavaScript 1.8.5" collectionTime="1486175271978" />
+      <project id="A3-DivyaMenghani" values="ECMAScript 5.1" collectionTime="1465281112691" />
+      <project id="readwords" values="ECMAScript 5.1" collectionTime="1461298160409" />
+      <project id="hwr" values="React JSX" collectionTime="1480455429948" />
+      <project id="getting-MEAN" values="ECMAScript 5.1" collectionTime="1489529046717" />
+      <project id="Codecademy-Exercise-Answers" values="ECMAScript 5.1" collectionTime="1473836191659" />
+      <project id="hecatea-lamda" values="ECMAScript 6" collectionTime="1510703060633" />
+      <project id="friendlychat" values="ECMAScript 5.1" collectionTime="1495355902670" />
+      <project id="UIExplorer" values="React JSX" collectionTime="1494649751771" />
+      <project id="giphy-example-slash-command" values="ECMAScript 5.1" collectionTime="1486014247055" />
+      <project id="mobileproject" values="Flow" collectionTime="1485060101278" />
+      <project id="web-start" values="ECMAScript 6" collectionTime="1495360911536" />
+      <project id="mkdemo" values="ECMAScript 6" collectionTime="1497331532190" />
+    </group>
+    <group name="vcs">
+      <project id="iXercise-WebAPP" values="Git" collectionTime="1466814097278" />
+      <project id="friendlychat" values="Git" collectionTime="1495355902654" />
+      <project id="zulip-mobile" values="Git" collectionTime="1493842379503" />
+      <project id="MiniVanConfigurator" values="Git" collectionTime="1485919376919" />
+      <project id="giphy-example-slash-command" values="Git" collectionTime="1486014247029" />
+      <project id="sample-Groceries" values="Git" collectionTime="1474244612977" />
+      <project id="blog" values="Git" collectionTime="1487796799512" />
+      <project id="mkreporting2" values="Git" collectionTime="1492732154832" />
+      <project id="INF132" values="Git" collectionTime="1464673858574" />
+      <project id="MKReporting" values="Git" collectionTime="1492733517573" />
+      <project id="mkdemo" values="Git" collectionTime="1497331532153" />
+      <project id="getting-MEAN" values="Git" collectionTime="1489529046566" />
+      <project id="Codecademy-Exercise-Answers" values="Git" collectionTime="1473836191588" />
+      <project id="mkreporting" values="Git" collectionTime="1497252024664" />
+      <project id="calorui" values="Git" collectionTime="1494884933486" />
+      <project id="huyanhh.github.io" values="Git" collectionTime="1489125381903" />
+      <project id="project-mesos-frontend" values="Git" collectionTime="1491802860392" />
+      <project id="hecatea-lamda" values="Git" collectionTime="1510703060538" />
+      <project id="omni" values="Git" collectionTime="1485076149897" />
+      <project id="hecatea-graphql-express" values="Git" collectionTime="1506562664425" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="giphy-example-slash-command" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1486014247037" />
+      <project id="friendlychat" values="data.users.count.10+,data.branches.count.1+,data.git.root.count.1,data.commit.count.100+" collectionTime="1495355902669" />
+      <project id="zulip-mobile" values="data.branches.count.10+,data.git.root.count.1,data.users.count.100+,data.commit.count.10K+" collectionTime="1493842379563" />
+      <project id="MiniVanConfigurator" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1485919376942" />
+      <project id="blog" values="data.git.root.count.1,data.commit.count.0,data.branches.count.0" collectionTime="1487796799515" />
+      <project id="mkreporting2" values="data.branches.count.1+,data.users.count.1+,data.commit.count.1+,data.git.root.count.1" collectionTime="1492732154849" />
+      <project id="MKReporting" values="data.branches.count.1+,data.git.root.count.1,data.users.count.1+,data.commit.count.1+" collectionTime="1492733517578" />
+      <project id="mkdemo" values="data.commit.count.1+,data.git.root.count.1,data.users.count.1+,data.branches.count.1+" collectionTime="1497331532175" />
+      <project id="getting-MEAN" values="data.commit.count.1+,data.branches.count.10+,data.git.root.count.1" collectionTime="1489529046584" />
+      <project id="project-mesos-frontend" values="data.branches.count.1+,data.users.count.1+,data.commit.count.1+,data.git.root.count.1" collectionTime="1491802860413" />
+      <project id="mkreporting" values="data.commit.count.1+,data.branches.count.1+,data.git.root.count.1,data.users.count.1+" collectionTime="1497252024711" />
+      <project id="calorui" values="data.git.root.count.1,data.users.count.1+,data.commit.count.1+,data.branches.count.1+" collectionTime="1494884933526" />
+      <project id="huyanhh.github.io" values="data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1489125381906" />
+      <project id="hecatea-lamda" values="data.git.root.count.1,data.commit.count.1+,data.branches.count.1+,data.users.count.1+" collectionTime="1510703060625" />
+      <project id="omni" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1485076149961" />
+      <project id="hecatea-graphql-express" values="data.users.count.1+,data.git.root.count.1,data.branches.count.1+,data.commit.count.1+" collectionTime="1506562664436" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="mk-reporting" values="ReactNative" collectionTime="1492733565487" />
+      <project id="iXercise-WebAPP" values="NodeJSConfigurationType" collectionTime="1466814097280" />
+      <project id="zulip-mobile" values="ReactNative,JavaScriptTestRunnerJest" collectionTime="1493842379505" />
+      <project id="ch3" values="NodeJSConfigurationType" collectionTime="1463796311950" />
+      <project id="chat-bot-example-app-master" values="ReactNative" collectionTime="1492734356700" />
+      <project id="hecatea-lamda" values="GoApplicationRunConfiguration,mocha-javascript-test-runner" collectionTime="1510703060551" />
+      <project id="INF132" values="NodeJSConfigurationType" collectionTime="1464673858575" />
+      <project id="MKReporting" values="ReactNative" collectionTime="1492733517573" />
+      <project id="getting-MEAN" values="NodeJSConfigurationType" collectionTime="1489529046568" />
+      <project id="untitled" values="NodeJSConfigurationType" collectionTime="1495355782285" />
+      <project id="mkreporting" values="ReactNative" collectionTime="1497252024671" />
+      <project id="calorui" values="ReactNative,JavaScriptTestRunnerJest" collectionTime="1494884933489" />
+      <project id="hecatea-api" values="mocha-javascript-test-runner,NodeJSConfigurationType" collectionTime="1511829327609" />
+      <project id="f8app-master" values="ReactNative" collectionTime="1504648914276" />
+      <project id="flatlisttest" values="ReactNative" collectionTime="1494650499673" />
+      <project id="hecatea-graphql-express" values="NodeJSConfigurationType" collectionTime="1506562664426" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="hecatea-lamda" values="mocha-javascript-test-runner,GoApplicationRunConfiguration" collectionTime="1510703060552" />
+      <project id="hecatea-api" values="NodeJSConfigurationType" collectionTime="1511829327610" />
+      <project id="asdfasdf" values="NodeJSConfigurationType" collectionTime="1491159907221" />
+      <project id="calorui" values="NodeJSConfigurationType" collectionTime="1494884933489" />
+    </group>
+    <group name="file-type">
+      <project id="hecatea-graphql-express" values="JSON,PLAIN_TEXT,Markdown,Git file,JavaScript" collectionTime="1506562664434" />
+      <project id="untitled" values="Jade,JSON,CSS,JavaScript" collectionTime="1495355782316" />
+      <project id="iXercise-WebAPP" values="Less,JavaScript,XML,CSS,Markdown,SCSS,PLAIN_TEXT,Images,UNKNOWN,HTML,JSON" collectionTime="1466814097307" />
+      <project id="huyanh-hoang" values="SourceMap,Images,Native,HTML,CSS,JavaScript" collectionTime="1478264360470" />
+      <project id="calorui" values="C++,JSON,Git file,PLAIN_TEXT,HTML,JavaScript,ARCHIVE,Ini,UNKNOWN,Images,XML" collectionTime="1494884933521" />
+      <project id="mkreporting" values="JavaScript,JSON,Images,PLAIN_TEXT,Markdown,Git file,Ini" collectionTime="1497252024699" />
+      <project id="zulip-mobile" values="Git file,Images,PLAIN_TEXT,XML,Ini,Markdown,JavaScript,JSON,C++,YAML,UNKNOWN,ARCHIVE" collectionTime="1493842379520" />
+      <project id="hecatea-api" values="JavaScript,YAML,JSON,Markdown,PLAIN_TEXT" collectionTime="1511829327759" />
+      <project id="asdfasdf" values="JavaScript" collectionTime="1491159907226" />
+      <project id="MKReporting" values="ARCHIVE,Markdown,JSON,EJS,Git file,JavaScript,Images,PLAIN_TEXT,XML,UNKNOWN,Ini,C++" collectionTime="1492733517577" />
+      <project id="Codecademy-Exercise-Answers" values="JavaScript,HTML,Git file,CSS,PLAIN_TEXT,Markdown,XML,Images,UNKNOWN" collectionTime="1473836191644" />
+      <project id="ch3" values="CSS,JSON,HTML,JavaScript,YAML,Jade,CoffeeScript,UNKNOWN,Markdown,JSHint,PLAIN_TEXT,Handlebars/Mustache,MultiMarkdown,XML" collectionTime="1463796311953" />
+      <project id="censorify" values="JSON,PLAIN_TEXT,JavaScript,UNKNOWN" collectionTime="1460663202300" />
+      <project id="omni" values="TypeScript,Markdown,ESLint file,ARCHIVE,Git file,PLAIN_TEXT,JavaScript,Handlebars/Mustache,C++,IDEA_MODULE,Images,JSCS,HTML,YAML,JSHint,Npm file,UNKNOWN,XML,JSON,PATCH,IDL,Flow,CoffeeScript,CSS,JSX Harmony,SourceMap" collectionTime="1485076149952" />
+      <project id="todo" values="XML,JavaScript,JSON,Ini,ARCHIVE,Images,Git file,C++,UNKNOWN,PLAIN_TEXT" collectionTime="1488844821837" />
+      <project id="MiniVanConfigurator" values="JSON,Mercurial file,C#,Images,YAML,Git file,PATCH,PLAIN_TEXT,XML,Dockerfile,HTML,C++,CSS,Markdown,UNKNOWN,JavaScript,ARCHIVE" collectionTime="1485919376939" />
+      <project id="chat-bot-example-app-master" values="Ini,JSON,PLAIN_TEXT,C++,Git file,XML,ARCHIVE,Images,Markdown,JavaScript" collectionTime="1492734356719" />
+      <project id="f8app-master" values="Git file,JSON,C++,XML,Images,HTML,ARCHIVE,JavaScript,PLAIN_TEXT,Markdown,UNKNOWN,Ini" collectionTime="1504648914289" />
+      <project id="nodebook" values="JSON,CSS,JavaScript,UNKNOWN,HTML,EJS,PLAIN_TEXT" collectionTime="1460662889050" />
+      <project id="flatlisttest" values="JSON,JavaScript,PLAIN_TEXT,Ini,Git file" collectionTime="1494650499686" />
+      <project id="INF132" values="CSS,HTML,XML,Markdown,JavaScript,PATCH,JSON,YAML,PLAIN_TEXT,SourceMap,UNKNOWN,JSHint" collectionTime="1464673858576" />
+      <project id="huyanhh.github.io" values="Markdown,HTML,XML,PLAIN_TEXT,Native,SourceMap,Images,Git file,JavaScript,CSS,UNKNOWN" collectionTime="1489125381906" />
+      <project id="mkreporting2" values="Ini,Markdown,Git file,JSON,Images,PLAIN_TEXT,JavaScript" collectionTime="1492732154845" />
+      <project id="ch4" values="PLAIN_TEXT,Jade,Markdown,JSON,JavaScript,CSS" collectionTime="1463787157007" />
+      <project id="sample-Groceries" values="JavaScript,C++,XML,Markdown,UNKNOWN,ARCHIVE,Images,PLAIN_TEXT,JSON,CSS,Git file" collectionTime="1474244612997" />
+      <project id="giphy-overwatch-slash-command" values="JavaScript,JSON,Git file,Markdown,PLAIN_TEXT" collectionTime="1486175271895" />
+      <project id="A3-DivyaMenghani" values="HTML,CSS,Images,JavaScript,UNKNOWN,PLAIN_TEXT" collectionTime="1465281112502" />
+      <project id="hwr" values="JSON,JavaScript,HTML" collectionTime="1480455429945" />
+      <project id="mkdemo" values="Markdown,JavaScript,Images,PLAIN_TEXT,Git file,HTML,JSON,CSS" collectionTime="1497331532169" />
+      <project id="getting-MEAN" values="Markdown,XML,PLAIN_TEXT,CSS,JavaScript,UNKNOWN,JSON,Git file,Jade" collectionTime="1489529046582" />
+      <project id="hecatea-lamda" values="PLAIN_TEXT,ARCHIVE,Markdown,UNKNOWN,Go,XML,YAML,JSON,JavaScript" collectionTime="1510703060604" />
+      <project id="friendlychat" values="TSLint,XML,Images,CSS,JavaScript,JSON,Git file,HTML,TypeScript,Markdown,C++,PLAIN_TEXT,UNKNOWN,ARCHIVE" collectionTime="1495355902665" />
+      <project id="UIExplorer" values="C++,Images,JavaScript,Markdown,PLAIN_TEXT,XML,JSON,UNKNOWN,HTML" collectionTime="1494649751770" />
+      <project id="mobileproject" values="Git file,JavaScript,Images,JSON,PLAIN_TEXT,XML,ARCHIVE,C++" collectionTime="1485060101085" />
+      <project id="web-start" values="Git file,JSON,CSS,PLAIN_TEXT,HTML,Images,Markdown,JavaScript" collectionTime="1495360911533" />
+      <project id="project-mesos-frontend" values="Markdown,JavaScript,Git file,HTML,CSS" collectionTime="1491802860406" />
+    </group>
+    <group name="remote-sdk-types-count">
+      <project id="hecatea-lamda" values="NodeJS 0" collectionTime="1510703060640" />
+      <project id="hecatea-api" values="NodeJS 0" collectionTime="1511829328094" />
+      <project id="hecatea-graphql-express" values="NodeJS 0" collectionTime="1506562664438" />
+      <project id="f8app-master" values="NodeJS 0" collectionTime="1504648914299" />
+    </group>
+    <group name="Docker Integration">
+      <project id="hecatea-lamda" values="docker.accounts.registry.1-0,docker.runConfigs.command 0,docker.runConfigs.dockerfile 0,docker.runConfigs.image 0,docker.accounts.machines 0,docker.accounts.total 0,docker.accounts.total.1-0,docker.runConfigs.entrypoint 0,docker.runConfigs.total.1-0,docker.runConfigs.compose 0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.jsonFile 0,docker.runConfigs.publishAllPorts 0,docker.fileType.dockerfile.patterns,docker.runConfigs.total 0,docker.view.not-registered,docker.runConfigs.debug 0,docker.accounts.registry 0" collectionTime="1510703060643" />
+      <project id="hecatea-api" values="docker.runConfigs.debug=0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.image=0,docker.accounts.total=0,docker.accounts.machines=0,docker.runConfigs.publishAllPorts=0,docker.runConfigs.total.1-0,docker.runConfigs.compose=0,docker.runConfigs.command=0,docker.view.not-registered,docker.fileType.dockerfile.patterns,docker.runConfigs.jsonFile=0,docker.runConfigs.total=0,docker.accounts.registry=0,docker.runConfigs.entrypoint=0,docker.accounts.total.1-0,docker.runConfigs.dockerfile=0,docker.accounts.registry.1-0" collectionTime="1511829328130" />
+      <project id="hecatea-graphql-express" values="docker.runConfigs.image 0,docker.accounts.total 0,docker.accounts.total.1-0,docker.accounts.machines 0,docker.runConfigs.publishAllPorts 0,docker.fileType.dockerfile.patterns,docker.runConfigs.compose 0,docker.runConfigs.total 0,docker.runConfigs.dockerfile 0,docker.accounts.registry 0,docker.runConfigs.total.1-0,docker.runConfigs.debug 0,docker.runConfigs.command 0,docker.runConfigs.entrypoint 0,docker.accounts.registry.1-0,docker.view.not-registered,docker.fileType.dockerfile.patterns.1,docker.runConfigs.jsonFile 0" collectionTime="1506562664438" />
+      <project id="f8app-master" values="docker.view.not-registered,docker.runConfigs.total 0,docker.runConfigs.debug 0,docker.runConfigs.publishAllPorts 0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.entrypoint 0,docker.accounts.machines 0,docker.runConfigs.jsonFile 0,docker.runConfigs.total.1-0,docker.accounts.total 0,docker.runConfigs.dockerfile 0,docker.runConfigs.image 0,docker.accounts.total.1-0,docker.fileType.dockerfile.patterns,docker.runConfigs.compose 0,docker.accounts.registry.1-0,docker.runConfigs.command 0,docker.accounts.registry 0" collectionTime="1504648914300" />
+    </group>
+    <group name="module type">
+      <project id="hecatea-graphql-express" values="WEB_MODULE" collectionTime="1506562664425" />
+      <project id="untitled" values="WEB_MODULE" collectionTime="1495355782285" />
+      <project id="iXercise-WebAPP" values="WEB_MODULE" collectionTime="1466814097278" />
+      <project id="huyanh-hoang" values="WEB_MODULE" collectionTime="1478264360464" />
+      <project id="calorui" values="WEB_MODULE" collectionTime="1494884933488" />
+      <project id="mkreporting" values="WEB_MODULE" collectionTime="1497252024669" />
+      <project id="zulip-mobile" values="WEB_MODULE" collectionTime="1493842379505" />
+      <project id="project-mesos-frontend" values="WEB_MODULE" collectionTime="1491802860394" />
+      <project id="hecatea-api" values="WEB_MODULE" collectionTime="1511829327605" />
+      <project id="asdfasdf" values="WEB_MODULE" collectionTime="1491159907219" />
+      <project id="MKReporting" values="WEB_MODULE" collectionTime="1492733517573" />
+      <project id="ch4" values="WEB_MODULE" collectionTime="1463787157005" />
+      <project id="ch3" values="WEB_MODULE" collectionTime="1463796311950" />
+      <project id="censorify" values="WEB_MODULE" collectionTime="1460663202297" />
+      <project id="mk-reporting" values="WEB_MODULE" collectionTime="1492733565487" />
+      <project id="omni" values="WEB_MODULE" collectionTime="1485076149899" />
+      <project id="todo" values="WEB_MODULE" collectionTime="1488844821815" />
+      <project id="MiniVanConfigurator" values="WEB_MODULE" collectionTime="1485919376920" />
+      <project id="chat-bot-example-app-master" values="WEB_MODULE" collectionTime="1492734356700" />
+      <project id="f8app-master" values="WEB_MODULE" collectionTime="1504648914276" />
+      <project id="blog" values="WEB_MODULE" collectionTime="1487796799513" />
+      <project id="nodebook" values="WEB_MODULE" collectionTime="1460662889038" />
+      <project id="flatlisttest" values="WEB_MODULE" collectionTime="1494650499673" />
+      <project id="INF132" values="WEB_MODULE" collectionTime="1464673858574" />
+      <project id="huyanhh.github.io" values="WEB_MODULE" collectionTime="1489125381903" />
+      <project id="mkreporting2" values="WEB_MODULE" collectionTime="1492732154833" />
+      <project id="sample-Groceries" values="WEB_MODULE" collectionTime="1474244612980" />
+      <project id="giphy-overwatch-slash-command" values="WEB_MODULE" collectionTime="1486175271788" />
+      <project id="A3-DivyaMenghani" values="WEB_MODULE" collectionTime="1465281112486" />
+      <project id="readwords" values="WEB_MODULE" collectionTime="1461298160370" />
+      <project id="hwr" values="WEB_MODULE" collectionTime="1480455429940" />
+      <project id="getting-MEAN" values="WEB_MODULE" collectionTime="1489529046567" />
+      <project id="Codecademy-Exercise-Answers" values="WEB_MODULE" collectionTime="1473836191588" />
+      <project id="hecatea-lamda" values="WEB_MODULE" collectionTime="1510703060549" />
+      <project id="friendlychat" values="WEB_MODULE" collectionTime="1495355902654" />
+      <project id="UIExplorer" values="WEB_MODULE" collectionTime="1494649751760" />
+      <project id="mobileproject" values="WEB_MODULE" collectionTime="1485060101051" />
+      <project id="web-start" values="WEB_MODULE" collectionTime="1495360911524" />
+      <project id="mkdemo" values="WEB_MODULE" collectionTime="1497331532154" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="iXercise-WebAPP" values="node_modules" collectionTime="1466814097309" />
+      <project id="sample-Groceries" values="node_modules" collectionTime="1474244613353" />
+    </group>
+    <group name="Git">
+      <project id="hecatea-graphql-express" values="config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.remote.branches.count.1,data.local.branches.count.1" collectionTime="1506562664436" />
+      <project id="untitled" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1495355782317" />
+      <project id="iXercise-WebAPP" values="data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,data.remotes.in.project.1" collectionTime="1466814097308" />
+      <project id="huyanh-hoang" values="config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1478264360487" />
+      <project id="calorui" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled,data.remotes.in.project.1,data.local.branches.count.1,data.remote.branches.count.1" collectionTime="1494884933527" />
+      <project id="mkreporting" values="data.local.branches.count.1,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.remote.branches.count.1,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1497252024714" />
+      <project id="zulip-mobile" values="config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.local.branches.count.2+,data.remote.branches.count.8+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.2+,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1493842379565" />
+      <project id="project-mesos-frontend" values="data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled" collectionTime="1491802860415" />
+      <project id="hecatea-api" values="config.save.policy.STASH,data.remotes.in.project.1,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+" collectionTime="1510887366498" />
+      <project id="asdfasdf" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1491159907226" />
+      <project id="MKReporting" values="config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.remote.branches.count.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1492733517578" />
+      <project id="ch4" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1463787157007" />
+      <project id="ch3" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1463796311954" />
+      <project id="censorify" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1460663202301" />
+      <project id="mk-reporting" values="config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1492733565490" />
+      <project id="omni" values="config.save.policy.STASH,data.remote.branches.count.1,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.local.branches.count.1,config.push.update.all.roots.enabled" collectionTime="1485076149965" />
+      <project id="todo" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1488844821838" />
+      <project id="MiniVanConfigurator" values="data.remotes.in.project.2+,config.repo.sync.NOT_DECIDED,data.remote.branches.count.5+,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.local.branches.count.5+,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1485919376944" />
+      <project id="chat-bot-example-app-master" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1492734356719" />
+      <project id="f8app-master" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1504648914290" />
+      <project id="blog" values="config.ssh.enabled,data.local.branches.count.0,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1487796799515" />
+      <project id="nodebook" values="config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1460662889060" />
+      <project id="flatlisttest" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1494650499687" />
+      <project id="INF132" values="config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,data.remotes.in.project.1,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1464673858579" />
+      <project id="huyanhh.github.io" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.force.push.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,data.local.branches.count.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1489125381907" />
+      <project id="mkreporting2" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.ssh.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,data.remotes.in.project.1" collectionTime="1492732154850" />
+      <project id="sample-Groceries" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.local.branches.count.2+,data.remote.branches.count.8+,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1474244613013" />
+      <project id="giphy-overwatch-slash-command" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1486175271903" />
+      <project id="A3-DivyaMenghani" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1465281112515" />
+      <project id="readwords" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1461298160405" />
+      <project id="hwr" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1480455429946" />
+      <project id="getting-MEAN" values="config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,data.remote.branches.count.8+,config.ssh.enabled" collectionTime="1489529046585" />
+      <project id="Codecademy-Exercise-Answers" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.local.branches.count.2+,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,data.remotes.in.project.2+,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.5+,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1473836191654" />
+      <project id="hecatea-lamda" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,data.local.branches.count.5+,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1510703060628" />
+      <project id="friendlychat" values="config.push.update.all.roots.enabled,config.ssh.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.5+" collectionTime="1495355902669" />
+      <project id="UIExplorer" values="config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1494649751770" />
+      <project id="giphy-example-slash-command" values="config.ssh.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1486014247038" />
+      <project id="mobileproject" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1485060101087" />
+      <project id="web-start" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1495360911533" />
+      <project id="mkdemo" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1497331532176" />
+    </group>
+    <group name="images.ide.background">
+      <project id="hecatea-graphql-express" values="frame,editor 0" collectionTime="1506562664436" />
+      <project id="untitled" values="editor 0,frame 0" collectionTime="1495355782316" />
+      <project id="huyanh-hoang" values="editor 0,frame 0" collectionTime="1478264360474" />
+      <project id="calorui" values="editor 0,frame 0" collectionTime="1494884933526" />
+      <project id="mkreporting" values="editor 0,frame 0" collectionTime="1497252024711" />
+      <project id="zulip-mobile" values="frame 0,editor 0" collectionTime="1493842379564" />
+      <project id="project-mesos-frontend" values="editor 0,frame 0" collectionTime="1491802860414" />
+      <project id="hecatea-api" values="editor=0,frame" collectionTime="1511829327796" />
+      <project id="asdfasdf" values="editor 0,frame 0" collectionTime="1491159907226" />
+      <project id="MKReporting" values="editor 0,frame 0" collectionTime="1492733517578" />
+      <project id="mk-reporting" values="frame 0,editor 0" collectionTime="1492733565490" />
+      <project id="omni" values="editor 0,frame 0" collectionTime="1485076149961" />
+      <project id="todo" values="frame 0,editor 0" collectionTime="1488844821838" />
+      <project id="MiniVanConfigurator" values="editor 0,frame 0" collectionTime="1485919376943" />
+      <project id="chat-bot-example-app-master" values="editor 0,frame 0" collectionTime="1492734356719" />
+      <project id="blog" values="editor 0,frame 0" collectionTime="1487796799515" />
+      <project id="flatlisttest" values="editor 0,frame 0" collectionTime="1494650499687" />
+      <project id="huyanhh.github.io" values="editor 0,frame 0" collectionTime="1489125381906" />
+      <project id="mkreporting2" values="editor 0,frame 0" collectionTime="1492732154849" />
+      <project id="giphy-overwatch-slash-command" values="editor 0,frame 0" collectionTime="1486175271898" />
+      <project id="hwr" values="frame 0,editor 0" collectionTime="1480455429946" />
+      <project id="getting-MEAN" values="editor 0,frame 0" collectionTime="1489529046584" />
+      <project id="mobileproject" values="editor 0,frame 0" collectionTime="1485060101085" />
+      <project id="hecatea-lamda" values="frame,editor 0" collectionTime="1510703060626" />
+      <project id="friendlychat" values="frame 0,editor 0" collectionTime="1495355902669" />
+      <project id="UIExplorer" values="editor 0,frame 0" collectionTime="1494649751770" />
+      <project id="giphy-example-slash-command" values="frame 0,editor 0" collectionTime="1486014247037" />
+      <project id="f8app-master" values="frame,editor 0" collectionTime="1504648914290" />
+      <project id="web-start" values="frame 0,editor 0" collectionTime="1495360911533" />
+      <project id="mkdemo" values="frame,editor 0" collectionTime="1497331532175" />
+    </group>
+    <group name="vcs-options">
+      <project id="mk-reporting" values="commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,perform.checkout.in.background.enabled,perform.update.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.enabled,include.text.into.shelf.enabled,commit.before.rearrange.disabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.todo.enabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,commit.before.check.files.up.to.date.disabled,show.changes.preview.disabled,commit.use.right.margin.enabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,offer.move.failed.committed.do_nothing_silently,changelist.make.new.active.disabled,changelist.preselect.existing.disabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.file.disabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled" collectionTime="1492733565487" />
+      <project id="friendlychat" values="offer.move.partially.committed.disabled,perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,changelist.make.new.active.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,commit.before.optimize.imports.disabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.cleanup.disabled,commit.before.rearrange.disabled,include.text.into.shelf.enabled,check.conflicts.in.background.disabled,commit.before.check.files.up.to.date.disabled,changelist.preselect.existing.disabled,commit.show.unversioned.enabled,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,commit.before.reformat.file.disabled,perform.edit.in.background.enabled,commit.before.check.code.smell.enabled,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1495355902654" />
+      <project id="zulip-mobile" values="commit.before.check.non.empty.comment.disabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.code.cleanup.disabled,commit.before.rearrange.disabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.optimize.imports.disabled,commit.before.check.todo.enabled,commit.show.unversioned.enabled,offer.move.partially.committed.disabled,commit.before.reformat.file.disabled,perform.add_remove.in.background.enabled,commit.clear.initial.comment.disabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,perform.commit.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.code.smell.enabled" collectionTime="1493842379504" />
+      <project id="asdfasdf" values="commit.use.right.margin.enabled,perform.checkout.in.background.enabled,commit.clear.initial.comment.disabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,check.conflicts.in.background.disabled,offer.move.partially.committed.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.smell.enabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,changelist.make.new.active.disabled,changelist.preselect.existing.disabled,commit.before.check.files.up.to.date.disabled,include.text.into.shelf.enabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,perform.update.in.background.enabled,commit.before.reformat.file.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,commit.show.unversioned.enabled" collectionTime="1491159907218" />
+      <project id="chat-bot-example-app-master" values="commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,show.changes.preview.disabled,commit.before.optimize.imports.disabled,commit.before.reformat.file.disabled,commit.before.check.non.empty.comment.disabled,commit.clear.initial.comment.disabled,commit.before.check.files.up.to.date.disabled,commit.use.right.margin.enabled,perform.add_remove.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,perform.update.in.background.enabled,perform.edit.in.background.enabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled" collectionTime="1492734356700" />
+      <project id="hecatea-lamda" values="perform.checkout.in.background.enabled,commit.use.right.margin.enabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.file.disabled,perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,perform.rollback.in.background.disabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,commit.before.reformat.project.disabled,perform.add_remove.in.background.enabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,changelist.make.new.active.disabled,changelist.preselect.existing.disabled,commit.before.check.code.smell.enabled,commit.before.check.non.empty.comment.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.optimize.imports.disabled" collectionTime="1510703060543" />
+      <project id="UIExplorer" values="offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,perform.commit.in.background.enabled,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.files.up.to.date.disabled,changelist.preselect.existing.disabled,perform.rollback.in.background.disabled,show.changes.preview.disabled,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,commit.use.right.margin.enabled,perform.checkout.in.background.enabled,perform.add_remove.in.background.enabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,perform.edit.in.background.enabled,offer.move.partially.committed.disabled,commit.before.optimize.imports.disabled,check.conflicts.in.background.disabled" collectionTime="1494649751760" />
+      <project id="web-start" values="perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.code.smell.enabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,include.text.into.shelf.enabled,show.changes.preview.disabled,commit.before.check.non.empty.comment.disabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,perform.add_remove.in.background.enabled,commit.before.reformat.file.disabled" collectionTime="1495360911524" />
+      <project id="MKReporting" values="commit.before.check.files.up.to.date.disabled,commit.before.optimize.imports.disabled,perform.update.in.background.enabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.code.smell.enabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,perform.rollback.in.background.disabled,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.clear.initial.comment.disabled,show.changes.preview.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,perform.add_remove.in.background.enabled" collectionTime="1492733517573" />
+      <project id="mkdemo" values="perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,offer.move.partially.committed.disabled,perform.rollback.in.background.disabled,changelist.make.new.active.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,commit.before.check.files.up.to.date.disabled,include.text.into.shelf.enabled,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled,commit.before.reformat.file.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,show.changes.preview.disabled" collectionTime="1497331532154" />
+      <project id="project-mesos-frontend" values="changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,perform.add_remove.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.check.files.up.to.date.disabled,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,perform.edit.in.background.enabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1491802860393" />
+      <project id="mkreporting" values="commit.clear.initial.comment.disabled,changelist.preselect.existing.disabled,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,perform.commit.in.background.enabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,commit.before.check.todo.enabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled,commit.before.reformat.file.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,check.conflicts.in.background.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.files.up.to.date.disabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,offer.move.partially.committed.disabled" collectionTime="1497252024667" />
+      <project id="calorui" values="include.text.into.shelf.enabled,commit.before.check.code.smell.enabled,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,commit.before.reformat.project.disabled,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,perform.checkout.in.background.enabled,perform.commit.in.background.enabled,commit.before.check.non.empty.comment.disabled,check.conflicts.in.background.disabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.file.disabled,commit.before.check.files.up.to.date.disabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,commit.before.rearrange.disabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,offer.move.partially.committed.disabled,show.changes.preview.disabled" collectionTime="1494884933487" />
+      <project id="untitled" values="commit.before.reformat.project.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,commit.before.check.code.smell.enabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,commit.show.unversioned.enabled,perform.add_remove.in.background.enabled,changelist.preselect.existing.disabled,commit.before.check.files.up.to.date.disabled,offer.move.partially.committed.disabled,perform.edit.in.background.enabled,commit.before.reformat.file.disabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled" collectionTime="1495355782285" />
+      <project id="hecatea-api" values="include.text.into.shelf.enabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,commit.show.unversioned.enabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,commit.before.reformat.file.disabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled,commit.before.check.files.up.to.date.disabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,offer.move.partially.committed.disabled" collectionTime="1511829327602" />
+      <project id="f8app-master" values="perform.add_remove.in.background.enabled,offer.move.partially.committed.disabled,perform.edit.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.enabled,commit.before.reformat.file.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,perform.checkout.in.background.enabled,include.text.into.shelf.enabled,commit.clear.initial.comment.disabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,commit.before.check.files.up.to.date.disabled,commit.show.unversioned.enabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,perform.commit.in.background.enabled,commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled" collectionTime="1504648914276" />
+      <project id="flatlisttest" values="perform.commit.in.background.enabled,offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,commit.before.rearrange.disabled,commit.before.check.files.up.to.date.disabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,commit.clear.initial.comment.disabled,check.conflicts.in.background.disabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.file.disabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,show.changes.preview.disabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,changelist.make.new.active.disabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled" collectionTime="1494650499673" />
+      <project id="mkreporting2" values="perform.edit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.project.disabled,changelist.make.new.active.disabled,changelist.preselect.existing.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.smell.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.file.disabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,perform.add_remove.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,include.text.into.shelf.enabled,perform.update.in.background.enabled" collectionTime="1492732154832" />
+      <project id="hecatea-graphql-express" values="commit.before.rearrange.disabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled,perform.rollback.in.background.disabled,perform.checkout.in.background.enabled,changelist.preselect.existing.disabled,check.conflicts.in.background.disabled,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,commit.before.check.files.up.to.date.disabled,changelist.make.new.active.disabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,include.text.into.shelf.enabled,commit.before.reformat.file.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.optimize.imports.disabled,perform.update.in.background.enabled" collectionTime="1506562664425" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="2" />
+      <entry feature="AbstractNewProjectStep.Node.js Express App" count="2" />
+      <entry feature="AbstractNewProjectStep.React Native" count="3" />
+      <entry feature="CreateFile.CreateFileAction" count="30" />
+      <entry feature="Npm.Packages.Install.Package" count="5" />
+      <entry feature="Npm.Packages.Update.Package" count="4" />
+      <entry feature="OpenInBrowser.Chrome" count="46" />
+      <entry feature="OpenInBrowser.Firefox" count="10" />
+      <entry feature="OpenInBrowser.Safari" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="7" />
+      <entry feature="StripeButton[Version_Control].hidden" count="2" />
+      <entry feature="StripeButton[Version_Control].shown" count="10" />
+      <entry feature="execute.GoApplicationRunConfiguration.Debug" count="1" />
+      <entry feature="execute.GoApplicationRunConfiguration.Run" count="4" />
+      <entry feature="execute.GoRunFileConfiguration.Run" count="609" />
+      <entry feature="execute.JavaScriptTestRunnerJest.Debug" count="1" />
+      <entry feature="execute.JavaScriptTestRunnerJest.Run" count="71" />
+      <entry feature="execute.NodeJSConfigurationType.Debug" count="108" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="892" />
+      <entry feature="execute.ReactNative.Debug" count="1" />
+      <entry feature="execute.ReactNative.Run" count="110" />
+      <entry feature="execute.js.build_tools.npm.Run" count="49" />
+      <entry feature="execute.mocha-javascript-test-runner.Debug" count="1" />
+      <entry feature="execute.mocha-javascript-test-runner.Run" count="176" />
+      <entry feature="git.branch.checkout.local" count="1" />
+      <entry feature="go.dlv.debugger" count="1" />
+      <entry feature="ide.help.reference.tool.window.v8.profiling" count="1" />
+      <entry feature="ide.help.settings.project.settings.file.watchers.new.watcher" count="1" />
+      <entry feature="ide.settings.Appearance" count="8" />
+      <entry feature="ide.settings.Code_Style" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="40" />
+      <entry feature="ide.settings.Console" count="1" />
+      <entry feature="ide.settings.ESLint" count="3" />
+      <entry feature="ide.settings.File_Watchers" count="5" />
+      <entry feature="ide.settings.Font" count="33" />
+      <entry feature="ide.settings.General" count="7" />
+      <entry feature="ide.settings.Go" count="1" />
+      <entry feature="ide.settings.Go_Libraries" count="6" />
+      <entry feature="ide.settings.Go_SDK" count="1" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JavaScript" count="33" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="4" />
+      <entry feature="ide.settings.Markdown" count="4" />
+      <entry feature="ide.settings.Material_Theme" count="6" />
+      <entry feature="ide.settings.Plugins" count="4" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.Version_Control" count="4" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ide.settings.Yeoman" count="2" />
+      <entry feature="idea.caches.invalidated" count="2" />
+      <entry feature="ideaapp.started" count="198" />
+      <entry feature="json.schema.builtin.completion" count="168" />
+      <entry feature="node.js.v8.profiling.read.log" count="3" />
+      <entry feature="node.js.v8.profiling.show.profiling.after.run" count="23" />
+      <entry feature="project.view.pane.Scope.Project Files" count="1" />
+      <entry feature="terminal.mac" count="153" />
+      <entry feature="tips.of.the.day.next" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="15" />
+      <entry feature="welcome.screen.null" count="4" />
+    </counts>
+  </component>
+</application>

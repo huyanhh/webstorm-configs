@@ -1,0 +1,41 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CheckinProject@NavBarToolbar" count="1" />
+      <entry action="Debug@NavBarToolbar" count="14" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="2" />
+      <entry action="Rerun@DebuggerToolbar" count="5" />
+      <entry action="Rerun@RunnerToolbar" count="87" />
+      <entry action="Resume@DebuggerToolbar" count="49" />
+      <entry action="Run@NavBarToolbar" count="357" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="6" />
+      <entry action="StepInto@DebuggerToolbar" count="5" />
+      <entry action="StepOver@DebuggerToolbar" count="49" />
+      <entry action="Stop@DebuggerToolbar" count="2" />
+      <entry action="Stop@NavBarToolbar" count="51" />
+      <entry action="Stop@RunnerToolbar" count="25" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="2" />
+      <entry action="com.intellij.codeInsight.documentation.DockablePopupManager$3@JavadocToolbar" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction@JavadocToolbar" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$ExternalDocAction@JavadocToolbar" count="1" />
+      <entry action="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction@IdeErrorsForward" count="3" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="32" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ShowHistoryAction@unknown" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="6" />
+      <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@TestRunnerResults" count="6" />
+      <entry action="com.intellij.javascript.testFramework.util.TestFullNameView$TfnPopupContentView$1@JsTestFullNameView" count="1" />
+      <entry action="com.intellij.lang.javascript.service.ui.JSLanguageServiceActionPanelBuilder$2@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@TestTreeViewToolbar" count="1" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@TestRunnerResults" count="2" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="9" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction@EditorToolbar" count="8" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction@EditorToolbar" count="5" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction@EditorToolbar" count="4" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="2" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,77 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Delete" count="10" />
+      <entry action="$Paste" count="30" />
+      <entry action="$Redo" count="1" />
+      <entry action="$SelectAll" count="11" />
+      <entry action="$Undo" count="168" />
+      <entry action="ActivateFavoritesToolWindow" count="2" />
+      <entry action="ActivateProjectToolWindow" count="8" />
+      <entry action="ActivateStructureToolWindow" count="2" />
+      <entry action="CommentByBlockComment" count="1" />
+      <entry action="CommentByLineComment" count="10" />
+      <entry action="CopyElement" count="1" />
+      <entry action="Debug" count="14" />
+      <entry action="EditSource" count="9" />
+      <entry action="EditorBackSpace" count="3275" />
+      <entry action="EditorChooseLookupItem" count="299" />
+      <entry action="EditorCopy" count="79" />
+      <entry action="EditorCut" count="80" />
+      <entry action="EditorDelete" count="46" />
+      <entry action="EditorDeleteLine" count="2" />
+      <entry action="EditorDown" count="90" />
+      <entry action="EditorDuplicate" count="8" />
+      <entry action="EditorEnter" count="533" />
+      <entry action="EditorEscape" count="7" />
+      <entry action="EditorIndentSelection" count="1" />
+      <entry action="EditorLeft" count="108" />
+      <entry action="EditorLineEnd" count="6" />
+      <entry action="EditorLineStart" count="7" />
+      <entry action="EditorPaste" count="146" />
+      <entry action="EditorPreviousWordWithSelection" count="1" />
+      <entry action="EditorRight" count="152" />
+      <entry action="EditorStartNewLine" count="2" />
+      <entry action="EditorTab" count="66" />
+      <entry action="EditorUp" count="29" />
+      <entry action="EvaluateExpression" count="2" />
+      <entry action="Find" count="37" />
+      <entry action="FindInPath" count="6" />
+      <entry action="FindUsages" count="1" />
+      <entry action="Go.NewGoFile" count="3" />
+      <entry action="GotoBookmark4" count="2" />
+      <entry action="GotoDeclaration" count="4" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="MinimizeCurrentWindow" count="1" />
+      <entry action="Move" count="1" />
+      <entry action="NewDir" count="2" />
+      <entry action="NewFile" count="2" />
+      <entry action="NewJavaScriptFile" count="2" />
+      <entry action="NextTemplateVariable" count="4" />
+      <entry action="QuickImplementations" count="10" />
+      <entry action="QuickJavaDoc" count="13" />
+      <entry action="RenameElement" count="14" />
+      <entry action="Replace" count="3" />
+      <entry action="Rerun" count="58" />
+      <entry action="Resume" count="44" />
+      <entry action="Run" count="141" />
+      <entry action="RunClass" count="1" />
+      <entry action="SaveAll" count="1" />
+      <entry action="SearchEverywhere" count="2" />
+      <entry action="ShowBookmarks" count="1" />
+      <entry action="ShowExecutionPoint" count="5" />
+      <entry action="StepInto" count="5" />
+      <entry action="StepOver" count="38" />
+      <entry action="Stop" count="40" />
+      <entry action="SurroundWith" count="1" />
+      <entry action="Switcher" count="1" />
+      <entry action="ToggleBookmark" count="16" />
+      <entry action="ToggleLineBreakpoint" count="20" />
+      <entry action="UsageView.Exclude" count="6" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction" count="1" />
+    </counts>
+  </component>
+</application>

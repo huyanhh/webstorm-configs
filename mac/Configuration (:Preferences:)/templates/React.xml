@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="rnc" value="import React, { Component } from 'react';&#10;import { View, Text, StyleSheet } from 'react-native';&#10;&#10;class $NAME$ extends Component {&#10;    render() {&#10;        return (&#10;            &lt;View/&gt;$END$&#10;        )&#10;    }&#10;}&#10;&#10;export default $NAME$;" description="React Native Component" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
